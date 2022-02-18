@@ -1,0 +1,14 @@
+
+ Passos de Instalação do Servidor E-G-E
+ 
+ 1 - Importa o arquivo dados.sql para o Php admin
+ 2 - Copia e colar as informações do arquivo de registro no prompt de comando SQl
+ 2 - Cadastra-se no sistema 
+ 3 - Chave de Acesso 1998
+ 4 - Acesso Liberado ao Login
+ 
+Equipe de Desenvolvedores
+
+	Erimilson 
+	Geisiele
+	Eloiza 

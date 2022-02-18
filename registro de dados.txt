@@ -1,0 +1,9 @@
+
+COPIAR E COLAR NO PROMT DE COMNADO SQL NO PHPADMIN 
+Apos ter criado o banco de dados Servidor e a tabela dados arquivo dados.sql
+
+INSERT INTO `dados`(`cod`, `nome`, `telefone`, `email`, `senha`) VALUES 
+(null,'Flavia',8791087609,'flavia@gmail.com',123),
+(null,'Julia',8791087609,'julia@gmail.com',123),
+(null,'Breno',8791087609,'breno@gmail.com',123),
+(null,'Enzo',8791087609,'enzo@gmail.com',123),
