@@ -1,5 +1,13 @@
 # CURSO TÉCNICO EM INFORMÁTICA 
 
+### - INTERFACE DO PROJETO
+
+### Tela Inicial
+<img src="imagem/Inicial.png" alt="Tela Inicial" height="300px"/>
+
+### Página do CRUD
+<img src="imagem/crud.png" alt="Tela Inicial" height="300px"/>
+
 ### - INFORMATIVO
 - O projeto foi desenvolvido para avaliação final em linguagem de programação no curso Técnico. 
 - Um CRUD, usando HTML, CSS, PHP e MYSQL.
@@ -24,11 +32,5 @@
 - Adicionado uma lincença.
 - Por motivos de privacidade e segurança foi editado os nomes dos desenvolvedores.
 
-### - INTERFACE DO PROJETO
-
-### Tela Inicial
-<img src="imagem/Inicial.png" alt="Tela Inicial" height="300px"/>
-
-### Página do CRUD
-<img src="imagem/crud.png" alt="Tela Inicial" height="300px"/>
+#
 
